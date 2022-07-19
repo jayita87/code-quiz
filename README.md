@@ -20,8 +20,8 @@ No installation needed.
 ## Usage 
 This project's purpose is to create an application of code-quiz for HTML and Javascript which can be accessed online, and will also maintain a list of high scores.<br>
 Please view deployed Git Hub [URL](https://jayita87.github.io/code-quiz/)
-<img src="./Assets/code-quiz-ss-1.png">
-<img src="./Assets/code-quiz-ss-2.png">
+<img src="./assets/code-quiz-ss-1.png">
+<img src="./assets/code-quiz-ss-2.png">
 
 ## License 
 This project is license under MIT
